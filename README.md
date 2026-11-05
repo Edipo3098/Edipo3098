@@ -1,12 +1,14 @@
 # Felipe Porras Hilarion
 
-**Embedded Software Engineer | C/C++ · Embedded Linux · Robotics**
+**Embedded Software Engineer | C/C++ · Embedded Linux · Robotics & Control**
 
 I develop software that connects physical systems, from microcontroller firmware and industrial communications to embedded Linux applications and human-machine interfaces.
 
 My professional background includes medical and industrial equipment, with hands-on development, software architecture, development coordination and software lifecycle documentation. I work with C/C++, STM32/ARM, Qt/QML, Yocto, CANopen and Modbus TCP.
 
 I completed my master's degree in Automatic Systems Engineering and Industrial Electronics at the Universitat Politècnica de Catalunya in 2025. For my final project, I designed, built and programmed a quadruped robot with a 5-DOF manipulator, integrating ROS 2, sensing, embedded control and simulation.
+
+My technical interests include control techniques, with a particular focus on optimal control and nonlinear control for robotic and dynamic systems. I am interested in connecting mathematical modelling and controller design with simulation and embedded implementation.
 
 ## Selected work
 
@@ -38,12 +40,13 @@ Python experiments with MPU9250 inertial sensors, I2C, calibration and UART comm
 | Embedded Linux | Linux, Yocto, system integration and debugging |
 | Applications and HMI | Qt, QML, CMake |
 | Industrial communications | CANopen, Modbus TCP, serial interfaces |
+| Control focus | Control techniques, optimal control, nonlinear control and dynamic-system modelling |
 | Robotics projects | ROS 2, Python, kinematics, simulation and hardware integration |
 | Engineering practice | Git, requirements, architecture, verification and traceability |
 
 ## Current direction
 
-I am deepening my C/C++ and software engineering skills while building on my embedded background to work in robotics and automation.
+I am deepening my C/C++ and software engineering skills while building on my embedded background to work in robotics and automation. My learning focus also includes optimal and nonlinear control, connecting control theory with practical robotic systems.
 
 Interested in opportunities in Barcelona and available for travel.
 
